@@ -83,3 +83,15 @@ p{
     color: black;
     text-align: center;
 }
+.quote{
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.quote p{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
